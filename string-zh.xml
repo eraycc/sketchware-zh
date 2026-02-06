@@ -1521,9 +1521,9 @@
     <string name="gcm_defaultSenderId">1046671485075</string>
     <string name="github_api_date_unavailable">日期不可用</string>
     <string name="github_api_error_message">出了点问题。请稍后重试。</string>
-    <string name="google_api_key">AIzaSyByj5HRtm3aHkVNunfuK2w7WRNiWlzI1wo</string>
+    <string name="google_api_key">AI…o</string>
     <string name="google_app_id">1:1046671485075:android:203660b90e106455b34566</string>
-    <string name="google_crash_reporting_api_key">AIzaSyByj5HRtm3aHkVNunfuK2w7WRNiWlzI1wo</string>
+    <string name="google_crash_reporting_api_key">AI…o</string>
     <string name="google_storage_bucket">sketchware-pro-app.firebasestorage.app</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_content_description">对话框图标</string>
@@ -2516,5 +2516,4 @@ ACTION_VIEW
     <string name="widget_editor">控件编辑器</string>
     <string name="widget_type_title">控件类型</string>
     <string name="xml_strings">XML 字符串</string>
-    <string name="link_eray_url">https://github.com/eraycc</string>
 </resources>
